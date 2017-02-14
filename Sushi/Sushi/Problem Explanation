@@ -1,0 +1,7 @@
+Find the best combination that maximize preference.
+
+Take number of test cases first.
+Next two parameters mean number of menu types and budget.
+And then enter price and preference of menu types.
+
+*price is always a hundred drain under 20,000 and maximum menu type is 20.
