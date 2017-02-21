@@ -1,0 +1,11 @@
+Find how often each number is shown from 1 to input number.
+
+1. Enter input number.
+2. The result show how many each digit (0, 1, 2, ..., 9) is shown.
+
+EX)
+> 11
+> 1 4 1 1 1 1 1 1 1 1
+
+* Maximum Number is 1,000,000,000
+* Time limit is 2s, and Memory is available up to 128MB
