@@ -40,5 +40,6 @@ int main() {
 	}
 	for (int i = 0; i < 9; i++) cout << result[i] << " ";
 	cout << result[9];
+	cin >> N;
 	return 0;
 }
