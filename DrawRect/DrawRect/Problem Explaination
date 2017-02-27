@@ -1,0 +1,19 @@
+Find the coordinates of the last point of rectangle when given coordinates of 3 points.
+
+1. take the number of test case at first.
+2. next 3 line give coordinates of 3 points.
+3. print the coordinate of last point.
+
+ex)
+<input>
+2
+3 5
+4 6
+4 5
+12 20
+20 14
+12 14
+
+<output>
+3 6
+20 20
