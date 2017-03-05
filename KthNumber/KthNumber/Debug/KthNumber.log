@@ -1,6 +1,3 @@
 ﻿  main.cpp
-c:\users\elliusis\documents\visual studio 2015\projects\kthnumber\kthnumber\main.cpp(16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\elliusis\documents\visual studio 2015\projects\kthnumber\kthnumber\main.cpp(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\elliusis\documents\visual studio 2015\projects\kthnumber\kthnumber\main.cpp(21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   KthNumber.vcxproj -> C:\Users\Elliusis\documents\visual studio 2015\Projects\KthNumber\Debug\KthNumber.exe
   KthNumber.vcxproj -> C:\Users\Elliusis\documents\visual studio 2015\Projects\KthNumber\Debug\KthNumber.pdb (Partial PDB)
