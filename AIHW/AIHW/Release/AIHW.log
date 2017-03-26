@@ -1,0 +1,17 @@
+﻿  main.cpp
+main.cpp(151): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+main.cpp(211): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+main.cpp(272): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+main.cpp(333): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+main.cpp(399): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+main.cpp(470): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+main.cpp(567): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+main.cpp(583): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+main.cpp(600): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+  1 of 272 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  AIHW.vcxproj -> C:\Users\Elliusis\Documents\Visual Studio 2015\Projects\AIHW\Release\AIHW.exe
+  AIHW.vcxproj -> C:\Users\Elliusis\Documents\Visual Studio 2015\Projects\AIHW\Release\AIHW.pdb (Full PDB)
