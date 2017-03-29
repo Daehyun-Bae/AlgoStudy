@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sample_Julia.cpp">
+    <ClCompile Include="Lab1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab1_ex.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

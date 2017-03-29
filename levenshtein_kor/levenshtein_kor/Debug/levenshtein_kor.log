@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\elliusis\documents\visual studio 2015\projects\levenshtein_kor\levenshtein_kor\main.cpp(23): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\elliusis\documents\visual studio 2015\projects\levenshtein_kor\levenshtein_kor\main.cpp(24): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\elliusis\documents\visual studio 2015\projects\levenshtein_kor\levenshtein_kor\main.cpp(26): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\elliusis\documents\visual studio 2015\projects\levenshtein_kor\levenshtein_kor\main.cpp(27): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\elliusis\documents\visual studio 2015\projects\levenshtein_kor\levenshtein_kor\main.cpp(33): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\elliusis\documents\visual studio 2015\projects\levenshtein_kor\levenshtein_kor\main.cpp(35): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\elliusis\documents\visual studio 2015\projects\levenshtein_kor\levenshtein_kor\main.cpp(38): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  levenshtein_kor.vcxproj -> c:\users\elliusis\documents\visual studio 2015\Projects\levenshtein_kor\Debug\levenshtein_kor.exe
+  levenshtein_kor.vcxproj -> c:\users\elliusis\documents\visual studio 2015\Projects\levenshtein_kor\Debug\levenshtein_kor.pdb (Partial PDB)
