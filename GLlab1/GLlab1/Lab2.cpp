@@ -7,7 +7,7 @@ void display() {
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 	glMatrixMode(GL_MODELVIEW); 
 	glLoadIdentity();
-	glRotatef(90, 1, 0, 0);
+	glRotatef(60, 1, 0, 0);
 	glTranslatef(pos_x, pos_y, pos_z);
 	glColor3f(1.0f, 1.0f, 0.0f); 
 	glutWireTeapot(0.5);	// Teapot Model
