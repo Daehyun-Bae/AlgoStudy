@@ -8,6 +8,9 @@ def solution(citations):
     citations = sorted(citations, reverse=True)
     answer = len([i+1 for i in range(len(citations)) if i+1 <= citations[i]])
 
+    # another answer
+    # answer = list(map(min, enumerate(citations, start=1)))
+
     return answer
 
 cases = [[3, 0, 6, 1, 5],   # 3
