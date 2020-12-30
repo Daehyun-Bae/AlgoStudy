@@ -49,3 +49,6 @@ Temporary Items
 
 # Executable files
 *.exe
+
+# Ignored directories
+.idea/*
