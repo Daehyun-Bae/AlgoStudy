@@ -52,3 +52,4 @@ Temporary Items
 
 # Ignored directories
 .idea/*
+.vscode/*
