@@ -1,7 +1,7 @@
 # Baekjoon no.2839 설탕배달
 # Category: Dynamic programming
 import sys
-from itertools import combinations, permutations, product
+from itertools import product
 
 
 def solution(N):
