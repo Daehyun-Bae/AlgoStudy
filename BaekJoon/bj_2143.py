@@ -1,4 +1,5 @@
-# Baekjoon no.2143
+# Baekjoon no.2143 두 배열의 합
+# Category: Binary search, Cumulative sum
 
 import sys
 from functools import reduce

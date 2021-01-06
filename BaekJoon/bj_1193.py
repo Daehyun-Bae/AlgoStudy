@@ -1,4 +1,5 @@
-# Baekjoon no.1193
+# Baekjoon no.1193 분수 찾기
+# Category: Mathematics
 
 def solution(n):
     k = 1
