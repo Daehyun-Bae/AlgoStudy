@@ -1,3 +1,5 @@
+# Baekjoon no.2206 벽 부수고 이동하기
+# Category: BFS
 import sys
 from collections import deque
 
