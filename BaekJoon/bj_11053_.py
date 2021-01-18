@@ -11,6 +11,8 @@ def solution(n, arr):
         if MAX < a:
             MAX = a
             answer += 1
+        else:
+            
 
     return answer
 
