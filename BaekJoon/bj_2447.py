@@ -1,3 +1,6 @@
+# Baekjoon no.2447 별찍기-10
+# Keyword: Recursive, Divide and conquer
+
 n = int(input())
 
 def star(k):
