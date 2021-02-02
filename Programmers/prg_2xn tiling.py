@@ -15,3 +15,5 @@ def solution(n):
         n -= 1
     answer %= 1000000007
     return answer
+
+print(solution(1000000))
