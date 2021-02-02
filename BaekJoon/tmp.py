@@ -1,7 +1,8 @@
-from collections import Counter
-a, b, c = int(input()), int(input()), int(input())
-n = a*b*c
-count = {i: 0 for i in range(10)}
-count.update(dict(Counter(int(i) for i in str(n))))
-for v in count.values():
-    print(v)
+for year in [1999, 2000, 2012]:
+    if year % 4 == 0:
+        if year % 100 != 0 or year % 400 == 0:
+            print(1)
+        else:
+            print(0)
+    else:
+        print(0)
