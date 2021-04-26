@@ -53,3 +53,6 @@ Temporary Items
 # Ignored directories
 .idea/*
 .vscode/*
+Programmers/prg_xx_로봇청소기.py
+Programmers/prg_xx_퀘스트순서.py
+Programmers/prg_xx_키차이.py
